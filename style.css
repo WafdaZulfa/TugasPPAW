@@ -1,0 +1,49 @@
+.kotakpertama{
+    margin-top: 50px;
+    height: 700px;
+    box-sizing: border-box;
+   
+}
+
+.tts{
+    float: left;
+}
+.datar{
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+.list li{
+    list-style-type: none;
+}
+
+table {
+	text-align: center;
+    box-sizing: border-box;
+}
+
+.tabel td{
+    border: solid 1px white;
+}
+
+td {
+	width: 40px;
+	height: 30px;
+    margin: 0.5px;
+}
+
+td input {
+	width: 40px;
+	height: 30px;
+	text-align: center;
+	font-size: 14px;
+	text-transform: uppercase;
+}
+
+.block {
+	background-color: #000;
+}
+
+.kotakkedua{
+    margin-bottom: 200px;
+}
